@@ -13,7 +13,7 @@ To get the most out of this guide, you’ll need to:
 
 1. Replace `dhe_fdd03c4eb1` on `index.ts` with your API key.
 
-2. Update `from` and `to` to valid values.
+2. Update `from` and `to` on `index.ts` to valid values.
 
 3. Install dependencies:
 
